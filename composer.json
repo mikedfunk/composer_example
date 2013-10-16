@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mikefunk/query-stringer": "dev-master"
+    }
+}
